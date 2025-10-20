@@ -36,6 +36,29 @@ The system autonomously adjusts a solar panel's angle to maximize energy capture
 * **Comprehensive Documentation:** (If available, mention the Final Report here).
 
 ---
+### Showcase
+
+#### Example results of Descriptive Section
+
+![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/result1.png)
+![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/result2.png)
+![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/result11.png)
+![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/r1.png)
+
+#### Example results of Predictive Section
+
+![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/r4.png)
+![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/r5.png)
+![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/r6.png)
+![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/r7.png)
+![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/r8.png)
+![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/r10.png)
+![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/r11.png)
+![./HW1-Dice-Simulation-and-Sampling/results1.png](https://github.com/MahdisSep/Diabetes-Classification-and-Statistical-Modeling-R/blob/main/Results/r122.png)
+
+
+
+-----
 
 ### 📂 Repository Structure
 
